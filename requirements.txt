@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+websockets
+google-auth-oauthlib
+google-auth-httplib2
+requests
+ttkbootstrap
+pillow
+sounddevice
+numpy
+python-multipart
